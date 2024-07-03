@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "764258447948",
+    "project_id": "user-g-f9139",
+    "storage_bucket": "user-g-f9139.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764258447948:android:65d3c8add83fb9420cfae9",
+        "android_client_info": {
+          "package_name": "com.userg"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZ1ai32bfmEBc3QiqXX1WqM8gs7wPQPKQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
